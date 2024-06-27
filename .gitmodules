@@ -1,0 +1,6 @@
+[submodule "s2e-aobc-hogesat"]
+	path = s2e-aobc-hogesat
+	url = https://github.com/DaikiTsuzuki/s2e-aobc-hogesat.git
+[submodule "FlightSW/c2a-aobc-hogesat"]
+	path = FlightSW/c2a-aobc-hogesat
+	url = https://github.com/DaikiTsuzuki/c2a-aobc-hogesat.git
