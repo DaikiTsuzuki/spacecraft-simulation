@@ -22,4 +22,8 @@ git submodule update
 
 制御モードごとのサンプルは以下。
 - https://github.com/DaikiTsuzuki/spacecraft-simulation/tree/BDOT
+- https://github.com/DaikiTsuzuki/spacecraft-simulation/tree/ROUGH_SUN_POINTING
+- https://github.com/DaikiTsuzuki/spacecraft-simulation/tree/ROUGH_THREE＿AXIS
+- https://github.com/DaikiTsuzuki/spacecraft-simulation/tree/ROUGH_THREE_AXIS＿RW
+- https://github.com/DaikiTsuzuki/spacecraft-simulation/tree/FINE_THREE_AXIS
 
