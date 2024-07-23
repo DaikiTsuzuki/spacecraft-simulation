@@ -23,6 +23,6 @@ git branch FINE_THREE_AXIS
 シミュレーションの初期状態などはコードを参照のこと。
 
 シミュレーションを実行結果を以下に示す。
-収束していない…（要修正）
+収束していない&バイアス残ってる（要修正）
 ![result(angular_velocity)](result(angular_velocity).png)
 ![result(quaternion_i2b)](result(quaternion_i2b).png)
