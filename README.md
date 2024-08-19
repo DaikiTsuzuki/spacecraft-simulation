@@ -5,7 +5,6 @@
 ```
 git clone https://github.com/DaikiTsuzuki/spacecraft-simulation.git
 cd spacecraft-simulation
-mkdir FlightSW 
 cd FlightSW
 git submodule add https://github.com/DaikiTsuzuki/c2a-aobc-hogesat.git
 cd c2a-aobc-hogesat
